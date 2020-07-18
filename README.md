@@ -3,4 +3,4 @@
 OUTPUT LINK
 
 
-https://agnikasunil.github.io/C30-Project/
+ https://naruto2627.github.io/c-30-pro/
