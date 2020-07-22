@@ -1,7 +1,7 @@
 class Block5 extends BaseClass {
   constructor(x,y){
     super(x,y,100,60);
-    this.image = loadImage("Images/red.jpg");
+    this.image = loadImage("Images/Red.jpg");
     this.Visibility = 255;
   }
 
